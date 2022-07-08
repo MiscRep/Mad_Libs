@@ -8,6 +8,7 @@ public class MadLibs {
         public static void main (String[] args){
 
             String name1 = "Replicant";
+            String name2 = "Crystal";
             String adjective1 = "clumsy";
             String adjective2 = "adorable";
             String adjective3 = "wild";
