@@ -20,6 +20,7 @@ public class MadLibs {
             String noun5 = "bear";
             String noun6 = "alarm";
             int number = 25;
+            String place1 = "New York";
 
             //The template for the story
 
