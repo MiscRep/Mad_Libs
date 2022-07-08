@@ -11,7 +11,13 @@ public class MadLibs {
             String adjective1 = "clumsy";
             String adjective2 = "adorable";
             String adjective3 = "wild";
-            String verb1 = "slide";
+            String verb1 = "house";
+            String noun1 = "slide";
+            String noun2 = "bank";
+            String noun3 = "fire";
+            String noun4 = "adult";
+            String noun5 = "bear";
+            String noun6 = "alarm";
 
             //The template for the story
 
