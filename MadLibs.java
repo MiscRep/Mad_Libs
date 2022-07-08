@@ -19,6 +19,7 @@ public class MadLibs {
             String noun4 = "adult";
             String noun5 = "bear";
             String noun6 = "alarm";
+            int number = 25;
 
             //The template for the story
 
